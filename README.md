@@ -26,3 +26,6 @@ Note: any changes that I make to test website will result you to copy and paste 
 Update: the video is now unavailable
 Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button.
 
+
+https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
+

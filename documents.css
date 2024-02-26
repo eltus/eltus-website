@@ -3,3 +3,11 @@ body {
     font-family: sans-serif;
     font-size: large;
 }
+button {
+    font-family: sans-serif;
+    font-size: large;
+    size: large;
+    background-color: black;
+    color: white;
+    border: none;
+}

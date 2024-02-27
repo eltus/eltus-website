@@ -35,4 +35,4 @@ Update: I have realized that you can just clone the repository, and if you don't
 2. And type "git clone" with the repository URL.
 3. Then click enter,
 
-And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository
+And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository.

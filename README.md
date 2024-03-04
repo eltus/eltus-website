@@ -21,7 +21,7 @@
 here's the video for the button
 
 
-[Video](https://github.com/eltus/test-website/assets/156885804/ae1068b3-c736-4301-a3ce-2a00e62316ef)
+https://github.com/eltus/test-website/assets/156885804/ae1068b3-c736-4301-a3ce-2a00e62316ef
 
 **5.** open your web browser and search localhost:5500
 

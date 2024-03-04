@@ -6,8 +6,10 @@
 
 ## part 2 vscode extensions
 **1.** live server
+
 **2.** JavaScript (ES6) code snippets
-3. prettier - code formatter
+
+**3.** prettier - code formatter
 
 
 ## part 3 how to install

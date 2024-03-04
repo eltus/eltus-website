@@ -1,16 +1,16 @@
-This is a test website created for experimenting with HTML CSS and JavaScript please read every info
+# This is a test website created for experimenting with HTML CSS and JavaScript please read every info
 
-how to install
+## how to install
 1. open your web browser and go to this link and copy the code and create files for the code https://github.com/eltus/test-website
 2. install vscode and install the recommended extensions:
 
-part 2 vscode extensions
+## part 2 vscode extensions
 1. live server
 2. JavaScript (ES6) code snippets
 3. prettier - code formatter
 
 
-part 3 how to install
+## part 3 how to install
 1. from the earlier steps
 2. from the earlier steps
 3. once you have these extension installed then click the button that says: Go Live.
@@ -23,14 +23,14 @@ https://github.com/eltus/test-website/assets/156885804/ae1068b3-c736-4301-a3ce-2
 Note: any changes that I make to test website will result you to copy and paste the code again so keep an eye for any changes I have made
 
 
-Update: the video is now unavailable
+## Update: the video is now unavailable
 
-Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button.
+## Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button.
 
 
 https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
-Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
+## Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
 1. Open CMD, or terminal,
 2. And type "git clone" with the repository URL.
 3. Then click enter,

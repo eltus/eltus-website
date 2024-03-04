@@ -1,7 +1,7 @@
 # This is a test website created for experimenting with HTML CSS and JavaScript please read every info
 
 ## how to install
-1. open your web browser and go to this link and copy the code and create files for the code https://github.com/eltus/test-website
+1. open your web browser and go to this link and copy the code and create files for the code [Repository](https://github.com/eltus/test-website)
 2. install vscode and install the recommended extensions:
 
 ## part 2 vscode extensions

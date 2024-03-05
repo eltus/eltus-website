@@ -37,7 +37,7 @@ Note: any changes that I make to test website will result you to copy and paste 
 ## Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button.
 
 
-https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
+[Live server button video](https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8)
 
 ## Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
 1. Open CMD, or terminal,

@@ -40,8 +40,11 @@ Note: any changes that I make to test website will result you to copy and paste 
 https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
 ## Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
-1. Open CMD, or terminal,
+1. Open CMD, or terminal.
 2. And type "git clone" with the repository URL.
+```
+git clone
+```
 3. Then click enter,
 
 And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository.

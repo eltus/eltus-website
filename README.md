@@ -47,4 +47,7 @@ git clone
 ```
 3. Then click enter,
 
-And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository.
+And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository. And also, here's the full "git clone" command:
+```
+git clone https://github.com/eltus/test-website
+```

@@ -40,12 +40,13 @@ Note: any changes that I make to test website will result you to copy and paste 
 https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
 ## Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
-1. Open CMD.
-2. And type "git clone" with the repository URL.
+**1.** Open CMD.
+
+**2.** And type "git clone" with the repository URL.
 ```
 git clone
 ```
-3. Then click enter,
+**3.** Then click enter,
 
 And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository. And also, here's the full "git clone" command:
 ```
@@ -55,20 +56,38 @@ Copy this command and paste it to command propmt, or terminal, and click enter.
 
 Waring!: Please use this command on command prompt on a folder, or else the repository clone will be on the current user folder, on your users folder, or the system32 folder. Because that is the default folder when you open command prompt normally or as an administrator, so if you wanted to clone this repository, then open command prompt (A.K.A. CMD) on a folder, and here's how to open command prompt (A.K.A. CMD) on a folder.
 
-1. Open the folder you wan't to clone the repository.
-2. Go to the top of the folder and click the folder location, for example:
+**1.** Open the folder you wan't to clone the repository.
+
+**2.** Go to the top of the folder and click the folder location, for example:
 
 ![Screenshot 2024-03-12 15-03-39](https://github.com/eltus/test-website/assets/156885804/79346e28-3631-4948-876f-145c2ee2e260)
 
 In this example, my mouse is pointing at something and you need to follow it.
 
 ## Part 2:
-3. Now click with your mouse.
-4. Type in CMD.
-5. And enter.
+**3.** Now click with your mouse.
+
+**4.** Type in CMD.
+
+**5.** And enter.
 
 Now this will open a command prompt window.
 
-6. Copy the command on top of the warning.
+**6.** Copy the command on top of the warning.
 
 Now you have the repository on a folder you wanted, and not on your current user folder on your users folder, or the system32 folder.
+## Update: here's how to install all the vscode extensions from part 3!
+**1.** Open vscode or install vscode if you haven't 
+installed vscode yet.
+
+**2.** Look to the left sidebar of vscode
+
+**3.** Click the 4 grouped squares icon (A.K.A. The extensions icon) or press Ctrl, Shift and X. (A.K.A. Ctrl+Shift+X).
+
+**4.** Search for those 3 extensions from part 3.
+
+**5.** Click on those 3 extensions.
+
+**6.** Click the green "install" button.
+
+And now you have those 3 extensions installed. You can also, do this using the vscode extension marketplace website.

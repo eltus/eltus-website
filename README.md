@@ -90,4 +90,18 @@ installed vscode yet.
 
 **6.** Click the green "install" button.
 
-And now you have those 3 extensions installed. You can also, do this using the vscode extension marketplace website.
+## And now you have those 3 extensions installed. You can also, do this using the vscode extension marketplace website. Here's how you do it.
+
+**1.** Open your web browser and search: "vscode extension marketplace". Click on the first link that appeared.
+
+**2.** Do the previous step from "Update: here's how to install all the vscode extensions from part 3!". Above (step 4, or number 4).
+
+**3.** Same with step 5 or number 5.
+
+**4.** Same with step 6 or number 6.
+
+**5.** Now once you have clicked the "install" button, the website will ask you to open the extension in VS Code. Click yes.
+
+**6.** Repeat step 6 from the previous section.
+
+And now you know how to install those 3 vscode extensions using the "vscode extension marketplace" website.

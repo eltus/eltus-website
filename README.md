@@ -57,3 +57,5 @@ Waring!: Please use this command on command prompt or terminal on a folder, or e
 
 1. Open the folder you wan't to clone the repository.
 2. Go to the top of the folder and click the folder location, for example:
+
+![Screenshot 2024-03-12 15-03-39](https://github.com/eltus/test-website/assets/156885804/79346e28-3631-4948-876f-145c2ee2e260)

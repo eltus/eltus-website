@@ -20,8 +20,7 @@
 **3.** once you have these extension installed then click the button that says: Go Live.
 here's the video for the button
 
-
-https://github.com/eltus/test-website/assets/156885804/ae1068b3-c736-4301-a3ce-2a00e62316ef
+**4.** https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
 **5.** open your web browser and search localhost:5500
 
@@ -34,7 +33,7 @@ Note: any changes that I make to test website will result you to copy and paste 
 
 ## Update: the video is now unavailable
 
-## Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button.
+## Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button. And this video will also be on the newly added step 4 on "part 3 how to install" section.
 
 
 https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
@@ -105,3 +104,4 @@ installed vscode yet.
 **6.** Repeat step 6 from the previous section.
 
 And now you know how to install those 3 vscode extensions using the "vscode extension marketplace" website.
+## Update: I have removed the old video link for the "Go live" button. The unavailable one and replaced it with the new video link for the Go live button. The available one.

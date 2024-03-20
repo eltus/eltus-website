@@ -53,7 +53,7 @@ git clone https://github.com/eltus/test-website
 ```
 Copy this command and paste it to command propmt, or terminal, and click enter.
 
-Waring!: Please use this command on command prompt on a folder, or else the repository clone will be on the current user folder, on your users folder, or the system32 folder. Because that is the default folder when you open command prompt normally or as an administrator, so if you wanted to clone this repository, then open command prompt (A.K.A. CMD) on a folder, and here's how to open command prompt (A.K.A. CMD) on a folder.
+Waring!: Please use this command on command prompt on a folder, or else the repository clone will be on the current user folder, on your users folder, or the system32 folder. Because that is the default folder when you open command prompt normally or as an administrator. So if you wanted to clone this repository, then open command prompt (A.K.A. CMD) on a folder, and here's how to open command prompt (A.K.A. CMD) on a folder.
 
 **1.** Open the folder you wan't to clone the repository.
 

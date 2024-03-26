@@ -45,7 +45,7 @@ https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3
 ```
 git clone
 ```
-**3.** Then click enter,
+**3.** Then click enter.
 
 And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository. And also, here's the full "git clone" command:
 ```
@@ -70,7 +70,7 @@ In this example, my mouse is pointing at something and you need to follow it.
 
 **5.** And enter.
 
-Now this will open a command prompt window.
+Now, this will open a command prompt window.
 
 **6.** Copy the command on top of the warning.
 

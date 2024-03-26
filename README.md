@@ -74,7 +74,7 @@ Now, this will open a command prompt window.
 
 **6.** Copy the command on top of the warning.
 
-Now you have the repository on a folder you wanted, and not on your current user folder on your users folder, or the system32 folder.
+Now, you have the repository on a folder you wanted, and not on your current user folder on your users folder, or the system32 folder.
 ## Update: here's how to install all the vscode extensions from part 3!
 **1.** Open vscode or install vscode if you haven't 
 installed vscode yet.

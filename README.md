@@ -105,3 +105,5 @@ installed vscode yet.
 
 And now you know how to install those 3 vscode extensions using the "vscode extension marketplace" website.
 ## Update: I have removed the old video link for the "Go live" button. The unavailable one and replaced it with the new video link for the Go live button. The available one.
+## Update: my test website is now on internet! To access my website. Click this link:
+[Test website](https://eltus.github.io/test-website/)

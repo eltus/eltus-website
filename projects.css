@@ -11,14 +11,16 @@ button {
   color: white;
   border: none;
   width: 128px;
-  height: 2cm;
+  height: 4em;
   margin: 10px;
   cursor: pointer;
   transition: background-color 2s;
 }
+
 button:hover {
   background-color: #676868;
 }
+
 a {
   transition: color 2s ease;
   color: rgb(76, 76, 187);

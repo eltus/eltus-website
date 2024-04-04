@@ -11,7 +11,7 @@ button {
     color: white;
     border: none;
     width: 128px;
-    height: 2cm;
+    height: 4em;
     margin: 10px;
     cursor: pointer;
     transition: background-color 2s;
@@ -28,7 +28,7 @@ a:hover {
     color: rgb(173, 117, 173);
 }
 .sign-in {
-    position: relative;
-    left: -400px;
-    top: -322px;
+    position: absolute;
+    left: 200px;
+    top: 140px;
 }

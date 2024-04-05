@@ -27,8 +27,3 @@ a {
 a:hover {
     color: rgb(173, 117, 173);
 }
-.sign-in {
-    position: absolute;
-    left: 220px;
-    top: 140px;
-}

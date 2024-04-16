@@ -1,14 +1,4 @@
 body {
-    text-align: center;
     font-family: sans-serif;
     font-size: large;
-}
-.credits ol {
-    list-style-type: decimal;
-    list-style-position: inside;
-    padding-left: 0;
-}
-
-.credits li {
-    text-align: center;
 }

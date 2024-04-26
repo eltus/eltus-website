@@ -103,3 +103,13 @@ And now you know how to install those 3 vscode extensions using the "vscode exte
 5. Click the "install" button
 
 Now you have Git installed on your computer
+##  I just realized that if you are new to vscode or programming, then you don't know how to use, and maybe don't know how to install vscode, so here are the steps!
+1. Go to this link: [vscode download](https://code.visualstudio.com/download)
+2. Pick your OS! (It's either Windows, macOS, or linux)
+3. Run the installer file, or just double click the installer file
+4. Customize the installation. (Not the entire installation)
+5. Click the "install" button to install vscode
+6. Open vscode, and open the cloned repository folder
+7. Install all the recommended extensions
+
+Now, you can customize the cloned repository in vscode.

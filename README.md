@@ -113,3 +113,13 @@ Now you have Git installed on your computer
 7. Install all the recommended extensions
 
 Now, you can customize the cloned repository in vscode.
+## Update: I just realized that you can just use the browser version of vscode, so here it is:
+1. [click this link](https://vscode.dev/)
+2. Click on the button that says "Open folder"
+3. The website will give you permissions on opening, and editing the folder, or file, so click "View files" (for opening a folder), and "Save changes" (for editing the folder)
+4. Clone the repository, and open the folder in the browser version of vscode.
+
+And now, you're be able to use vscode without installing it on to your computer. And learn more about the browser version of vscode by going to the [vscode web documentation.](https://code.visualstudio.com/docs/editor/vscode-web)
+## Warning!: The browser version of vscode is still at preview, so there might be some bugs, and glitches in the browser version of vscode, so it's highly recommended installing vscode, but once the browser version of vscode has moved to it's full release, then you can use the browser version of vscode, but you can still use it ofc, but there might be some bugs, and glitches, but you can still use it, even though it's still in preview.
+
+## Second Warning!: Some extensions might not support the browser version of vscode, so it is recommended to install vscode, or use extensions that support the browser version of vscode, but the recommended extensions does not support the browser version of vscode yet, so it is still recommended installing vscode, or just use the browser version of vscode without extensions.

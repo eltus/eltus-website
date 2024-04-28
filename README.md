@@ -1,7 +1,7 @@
-# This is a test website created for experimenting with HTML CSS and JavaScript please read every info
+# Welcome to Eltus' official website! Please read every info on how to install the source code!
 
 ## how to install
-**1.** open your web browser and go to this link and copy the code and create files for the code: [Repository](https://github.com/eltus/test-website)
+**1.** open your web browser and go to this link and copy the code and create files for the code: [Repository](https://github.com/eltus/eltus-website)
 
 **2.** install vscode and install the recommended extensions:
 
@@ -21,15 +21,15 @@
 **3.** once you have these extension installed then click the button that says: Go Live.
 here's the video for the button
 
-**4.** https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
+**4.** https://github.com/eltus/eltus-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
 **5.** open your web browser and search localhost:5500
 
 **6.** and open the test websites folder and open the test_website.html
 
-**7.** and there you go now you have test website installed
+**7.** and there you go now you have eltus-website installed
 
-Note: any changes that I make to test website will result you to copy and paste the code again so keep an eye for any changes I have made
+Note: any changes that I make to eltus-website will result you to copy and paste the code again so keep an eye for any changes I have made
 
 
 ## Update: the video is now unavailable
@@ -37,7 +37,7 @@ Note: any changes that I make to test website will result you to copy and paste 
 ## Update: here's the video for the Go Live button, and this is the only avaible video for the Go live button. And this video will also be on the newly added step 4 on "part 3 how to install" section.
 
 
-https://github.com/eltus/test-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
+https://github.com/eltus/eltus-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
 ## Update: I have realized that you can just clone the repository, and if you don't know how to clone a repository follow these steps:
 1. Open CMD.
@@ -49,7 +49,7 @@ git clone
 
 And now you will have the repository on your system, and this repository is just a clone, so you can customize the cloned repository. Since it's not connected to the original repository. And also, here's the full "git clone" command:
 ```
-git clone https://github.com/eltus/test-website
+git clone https://github.com/eltus/eltus-website
 ```
 Copy this command and paste it to command prompt, or terminal, and click enter.
 
@@ -58,7 +58,7 @@ Copy this command and paste it to command prompt, or terminal, and click enter.
 1. Open the folder you wan't to clone the repository.
 2. Go to the top of the folder and click the folder location, for example:
 
-![Screenshot 2024-03-12 15-03-39](https://github.com/eltus/test-website/assets/156885804/79346e28-3631-4948-876f-145c2ee2e260)
+![Screenshot 2024-03-12 15-03-39](https://github.com/eltus/eltus-website/assets/156885804/79346e28-3631-4948-876f-145c2ee2e260)
 
 In this example, my mouse is pointing at something and you need to follow it.
 
@@ -94,7 +94,7 @@ installed vscode yet.
 And now you know how to install those 3 vscode extensions using the "vscode extension marketplace" website.
 ## Update: I have removed the old video link for the "Go live" button. The unavailable one and replaced it with the new video link for the Go live button. The available one.
 ## Update: my test website is now on internet! To access my website. Click this link:
-[Test website](https://eltus.github.io/test-website/)
+[Eltus website](https://eltus.github.io/eltus-website/)
 ## Update: I just realized that git must be installed in order for the, "git clone" command to work, so here are the steps on how to install git:
 1. Open your browser and type this link, "https://git-scm.com/downloads", or just click this link: [Git download](https://git-scm.com/downloads)
 2. Pick your OS for the installer file

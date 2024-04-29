@@ -3,3 +3,12 @@ body {
     font-family: sans-serif;
     font-size: large;
 }
+
+a {
+    transition: color 2s ease;
+    color: rgb(76, 76, 187);
+}
+
+a:hover {
+    color: rgb(173, 117, 173);
+}

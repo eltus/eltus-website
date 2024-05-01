@@ -126,4 +126,5 @@ And now, you're be able to use vscode without installing it on to your computer.
 ## Update: the browser version of vscode now supports programming languages, for example, HTML, CSS, and JavaScript. Including emmet too!  And prettier, GitLens, vscode-icons, and JavaScript (ES6) code snippets now support the browser version of vscode! Peacock, and Better Comments too!
 ## Update: download the batch/CMD, or PowerShell scripts if you want an easier method to clone the repository! Btw here's the downloads:
 [Batch/CMD version](https://eltus.github.io/eltus-website/clone.bat) [PowerShell version](https://eltus.github.io/eltus-website/clone.ps1)
-## Warning!: Please enable, "Ask where to save each file before downloading" option in [Chrome settings download](chrome://settings/downloads) before downloading the Batch, or PowerShell scripts.
+## Warning!: Please enable, "Ask where to save each file before downloading" option in Chrome settings download before downloading the Batch, or PowerShell scripts. Btw here's the link to the Chrome settings downloads:
+[Chrome settings downloads](chrome://settings/downloads)

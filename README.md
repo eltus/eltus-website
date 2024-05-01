@@ -124,3 +124,5 @@ And now, you're be able to use vscode without installing it on to your computer.
 
 ## Second Warning!: Some extensions might not support the browser version of vscode, so it is recommended to install vscode, or use extensions that support the browser version of vscode, but the recommended extensions does not support the browser version of vscode yet, so it is still recommended installing vscode, or just use the browser version of vscode without extensions.
 ## Update: the browser version of vscode now supports programming languages, for example, HTML, CSS, and JavaScript. Including emmet too!  And prettier, GitLens, vscode-icons, and JavaScript (ES6) code snippets now support the browser version of vscode! Peacock, and Better Comments too!
+## Update: download the batch/CMD, or PowerShell scripts if you want an easier method to clone the repository! Btw here's the downloads:
+[Batch/CMD version]()

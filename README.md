@@ -128,3 +128,4 @@ And now, you're be able to use vscode without installing it on to your computer.
 [Batch/CMD version](https://eltus.github.io/eltus-website/clone.bat) [PowerShell version](https://eltus.github.io/eltus-website/clone.ps1)
 ## Warning!: Please enable, "Ask where to save each file before downloading" option in Chrome settings download before downloading the Batch, or PowerShell scripts. Btw here's the link to the Chrome settings downloads:
 [Chrome settings downloads](chrome://settings/downloads)
+## Update: I just realized that the link to Chrome settings downloads doesn't work on websites, so just type in the link: chrome://settings/downloads in your browser, and turn on the setting that I just talked about.

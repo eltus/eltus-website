@@ -25,7 +25,7 @@ here's the video for the button
 
 **5.** open your web browser and search localhost:5500
 
-**6.** and open the test websites folder and open the test_website.html
+**6.** and open the eltus-website folder and open the index.html file
 
 **7.** and there you go now you have eltus-website installed
 

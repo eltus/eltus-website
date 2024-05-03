@@ -93,7 +93,7 @@ installed vscode yet.
 
 And now you know how to install those 3 vscode extensions using the "vscode extension marketplace" website.
 ## Update: I have removed the old video link for the "Go live" button. The unavailable one and replaced it with the new video link for the Go live button. The available one.
-## Update: my test website is now on internet! To access my website. Click this link:
+## Update: my website is now on internet! To access my website. Click this link:
 [Eltus website](https://eltus.github.io/eltus-website/)
 ## Update: I just realized that git must be installed in order for the, "git clone" command to work, so here are the steps on how to install git:
 1. Open your browser and type this link, "https://git-scm.com/downloads", or just click this link: [Git download](https://git-scm.com/downloads)

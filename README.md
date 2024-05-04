@@ -1,4 +1,4 @@
-# Welcome to Eltus' official website! Please read every info on how to install the source code!
+# Welcome to Eltus' official README file! Please read every info on how to install my website!
 
 ## how to install
 **1.** open your web browser and go to this link and copy the code and create files for the code: [Repository](https://github.com/eltus/eltus-website)

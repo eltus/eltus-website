@@ -134,3 +134,23 @@ And now, you're be able to use vscode without installing it on to your computer.
 ## Update: I have just turned on "Template repository" on my repository! Which means you can create a new repository, or codespace using the template from my repository! Which means it's just going to create a copy of the repository on your GitHub account, and you can create a new codespace using the repository template, and if you create a new repository, or codespace, then it will not be connected to the original repository.
 
 ## Update: It was, "Open in a new codespace", not creating a new codespace. Sorry for the misunderstanding.
+
+## Update: If you don't know how to create a new repository using the template repository, then follow these steps:
+1. Sign-in to your GitHub account, or create a new account
+2. Search my repository on GitHub, or [click this link](https://github.com/eltus/eltus-website)
+3. Click on the green button that says: "Use this template".
+4. Click the: "Create a new repository" button
+5. Create your repository.
+
+And there you go! Now, you are be able to modify a copy of the repository!
+
+## Update: You can also use codespaces, and publish the branch on to GitHub, and here's how to do it:
+1. Click on the same button that I just talked about. (The green button that says: "Use this template").
+2. Click on the: "Open in a new codespace" button
+3. Once you have clicked on the button, then modify the repository as much as you like. (Like adding new files, folders, editing files, deleting files, deleting folders, and all of that)
+4. Once you have modified the repository in the codespace, then click on the source control icon at the left sidebar. (Under the explorer icon, and search icon). For example:
+![Source control](/images/source_control.png)
+In this example, my mouse is pointing at the source control icon, and you must click it.
+5. Once you have clicked the source control icon, then click on the: "Publish branch" button, which publish the branch on to GitHub.
+
+And now, you have a copy of the repository on GitHub! As well as the branches you have published.

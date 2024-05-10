@@ -154,3 +154,18 @@ In this example, my mouse is pointing at the source control icon, and you must c
 5. Once you have clicked the source control icon, then click on the: "Publish branch" button, which publish the branch on to GitHub.
 
 And now, you have a copy of the repository on GitHub! As well as the branches you have published.
+
+## Update: When you are done installing vscode on to your computer, then click on the "Open folder" button, then select the cloned repository folder. (A.K.A the eltus-website folder, and the "Open folder" button is the same button from the browser version of vscode).
+
+## Update: Here are all controls for accessing the activity bar/left sidebar, and more!
+1. Accessing extensions: Ctrl+Shift+X
+2. Opening a folder: Ctrl+O
+3. Accesing source control: Ctrl+Shift+G
+
+## Update: I will add more controls when I add new things from vscode to this. (Like search, explorer, and more).
+
+## Update: Here are all the meanings of these words (you need to put your mouse cursor on the words with the underline to see the meanings of these words, and you must wait):
+1. OFC = Of Course
+2. TBH = To Be Honest
+
+## Update: I will add more meanings when I have added new meanings on this page.

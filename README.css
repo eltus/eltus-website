@@ -53,3 +53,20 @@ button:hover {
 code {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.title img {
+    width: 4em;
+    height: auto;
+    border-radius: 0;
+    margin-left: -100px;
+    margin-top: -10px;
+}
+
+.title h1 {
+    font-size: 40px;
+    margin-top: -59px;
+    margin-left: -10px;
+}
+abbr {
+    cursor: pointer;
+}

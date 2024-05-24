@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 100px;
+    background-color: black;
+    color: white;
+}
+
+.home_page a {
+    margin-left: 1030px;
+    position: relative;
+    top: -75px;
+    transition: color 2s ease;
+    color: white;
+}
+
+.home_page a:hover {
+    color: rgb(165, 165, 253);
+}
+
+.README a {
+    margin-left: 1150px;
+    position: relative;
+    top: -96px;
+    transition: color 2s ease;
+}
+
+.README a:hover {
+    color: rgb(75, 75, 255);
+}
+
+main p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main h1 {
+    font-size: 75px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+    border-color: rgb(230, 230, 230)
+}
+
+a {
+    transition: color 2s ease;
+    color: rgb(76, 76, 187);
+    text-decoration: 0;
+}
+
+a:hover {
+    color: rgb(173, 117, 173);
+}
+
+p {
+    font-size: 25px;
+}

@@ -169,3 +169,23 @@ And now, you have a copy of the repository on GitHub! As well as the branches yo
 2. TBH = To Be Honest
 
 ## Update: I will add more meanings when I have added new meanings on this page.
+
+## Update: All the instructions about opening CMD, and all of that only works on Windows judging by the start menu icon that is in every single image including video(s)! So if you are on macOS or Linux, then follow these steps:
+
+## Note: All of these instructions are just alternatives of the original instructions. (A.K.A the Windows version).
+## macOS version:
+1. On your macOS computer, open the terminal from Applications > Utilities.
+2. On the terminal, type: "cd your/folder". And replace "your/folder" with your actual folder location/address
+3. Type in the same command to clone the repository. (A.K.A git clone https://github.com/eltus/eltus-website).
+## Linux version:
+1. Use the built-in terminal app on Ubuntu, Debian, or Konsole on KDE.
+2. In the terminal, type the cd command with your folder address (like from the macOS instructions)
+3. Use the same command to clone the repository from the macOS instructions.
+
+And there you go! Now you have my repository cloned on both Linux and macOS!
+
+## Update: Do you want a simpler way to download the source code? Well, HERE'S THE SOURCE CODE INSIDE A ZIP FILE!!! MAKE SURE TO EXTRACT THE ZIP FILE IN ORDER TO USE THE SOURCE CODE!!!
+
+## Warning!: Please enable: "Ask where to save each file before downloading" option. So you won't have to manually move the ZIP file to the folder you want the ZIP file to be in.
+[Download the source code here](https://eltus.github.io/eltus-website/eltus-website.zip)
+## Second warning!: I will not include the .git folder inside the source code, so you may have to Initialize the folder once you have extract it.

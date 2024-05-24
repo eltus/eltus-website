@@ -16,9 +16,11 @@ button {
     cursor: pointer;
     transition: background-color 2s;
 }
+
 button:hover {
     background-color: #676868;
 }
+
 a {
     transition: color 2s ease;
     color: rgb(76, 76, 187);
@@ -26,4 +28,29 @@ a {
 
 a:hover {
     color: rgb(173, 117, 173);
+}
+
+.README a {
+    position: relative;
+    left: 525px;
+    top: -425px;
+    font-size: 18px;
+    transition: color 2s ease;
+    color: black;
+    text-decoration: 0;
+}
+
+.README a:hover {
+    color: rgb(98, 98, 255);
+}
+
+.about a {
+    margin-left: 150px;
+    position: relative;
+    top: -446px;
+    transition: color 2s ease;
+}
+
+.about a:hover {
+    color: rgb(135, 225, 255);
 }

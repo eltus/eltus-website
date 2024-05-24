@@ -7,6 +7,7 @@ body {
 a {
     transition: color 2s ease;
     color: rgb(76, 76, 187);
+    text-decoration: 0;
 }
 
 a:hover {
@@ -17,7 +18,7 @@ hr {
     border: none;
     border-top: 1px solid #ccc;
     margin: 20px 0;
-    border-color: rgb(230, 230, 230)
+    border-color: rgb(230, 230, 230);
 }
 
 video {
@@ -67,6 +68,31 @@ code {
     margin-top: -59px;
     margin-left: -10px;
 }
+
 abbr {
     cursor: pointer;
+    text-decoration: underline;
+}
+
+.home_page a {
+    margin-left: 1050px;
+    position: relative;
+    top: -68px;
+    color: black;
+    transition: color 2s ease;
+}
+
+.home_page a:hover {
+    color: rgb(122, 122, 236);
+}
+
+.about a {
+    margin-left: 1175px;
+    position: relative;
+    top: -89px;
+    transition: color 2s ease;
+}
+
+.about a:hover {
+    color: rgb(135, 225, 255);
 }

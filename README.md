@@ -125,7 +125,7 @@ And now, you're be able to use vscode without installing it on to your computer.
 ## Second Warning!: Some extensions might not support the browser version of vscode, so it is recommended to install vscode, or use extensions that support the browser version of vscode, but the recommended extensions does not support the browser version of vscode yet, so it is still recommended installing vscode, or just use the browser version of vscode without extensions.
 ## Update: the browser version of vscode now supports programming languages, for example, HTML, CSS, and JavaScript. Including emmet too!  And prettier, GitLens, vscode-icons, and JavaScript (ES6) code snippets now support the browser version of vscode! Peacock, and Better Comments too!
 ## Update: download the batch/CMD, or PowerShell scripts if you want an easier method to clone the repository! Btw here's the downloads:
-[Batch/CMD version](https://eltus.github.io/eltus-website/clone.bat) [PowerShell version](https://eltus.github.io/eltus-website/clone.ps1)
+[Batch/CMD version](https://eltus.github.io/eltus-website/downloads/clone.bat) [PowerShell version](https://eltus.github.io/eltus-website/downloads/clone.ps1)
 ## Warning!: Please enable, "Ask where to save each file before downloading" option in Chrome settings download before downloading the Batch, or PowerShell scripts. Btw here's the link to the Chrome settings downloads:
 [Chrome settings downloads](chrome://settings/downloads)
 ## Update: I just realized that the link to Chrome settings downloads doesn't work on websites, so just type in the link: chrome://settings/downloads in your browser, and turn on the setting that I just talked about.
@@ -188,7 +188,7 @@ And there you go! Now you have my repository cloned on both Linux and macOS!
 ## Update: Do you want a simpler way to download the source code? Well, HERE'S THE SOURCE CODE INSIDE A ZIP FILE!!! MAKE SURE TO EXTRACT THE ZIP FILE IN ORDER TO USE THE SOURCE CODE!!!
 
 ## Warning!: Please enable: "Ask where to save each file before downloading" option. So you won't have to manually move the ZIP file to the folder you want the ZIP file to be in.
-[Download the source code here](https://eltus.github.io/eltus-website/eltus-website.zip)
+[Download the source code here](https://eltus.github.io/eltus-website/downloads/eltus-website.zip)
 ## Second warning!: I will not include the .git folder inside the source code, so you may have to initialize the folder once you have extract it.
 ## Update: To initialize the eltus-website folder/ZIP file you need to run the, "git init" command in CMD, PowerShell, or the vsocde terminal, and if you run this command, the source code folder will be Initialized, and you can create an account for git by pudding your email, and username in order for you to upload the modified repository on to GitHub, but you need to sign-in to your GitHub account, or create a new account when you don't have a GitHub account, and here are the commands for you to initialize the source code folder, and creating an account for git:
 ``

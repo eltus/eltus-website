@@ -8,6 +8,7 @@ a {
     transition: color 2s ease;
     color: rgb(76, 76, 187);
     text-decoration: 0;
+    font-size: 25px;
 }
 
 a:hover {
@@ -28,7 +29,7 @@ video {
 }
 
 img {
-    width: 50em;
+    width: 45em;
     height: auto;
     margin-left: -20px;
     border-radius: 20px;
@@ -53,6 +54,7 @@ button:hover {
 
 code {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
 }
 
 .title img {
@@ -95,4 +97,20 @@ abbr {
 
 .about a:hover {
     color: rgb(135, 225, 255);
+}
+
+p {
+    font-size: 25px;
+}
+
+ol {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 28px;
 }

@@ -167,6 +167,7 @@ And now, you have a copy of the repository on GitHub! As well as the branches yo
 ## Update: Here are all the meanings of these words (you need to put your mouse cursor on the words with the underline to see the meanings of these words, and you must wait):
 1. OFC = Of Course
 2. TBH = To Be Honest
+3. E.G. = Example
 
 ## Update: I will add more meanings when I have added new meanings on this page.
 
@@ -188,4 +189,36 @@ And there you go! Now you have my repository cloned on both Linux and macOS!
 
 ## Warning!: Please enable: "Ask where to save each file before downloading" option. So you won't have to manually move the ZIP file to the folder you want the ZIP file to be in.
 [Download the source code here](https://eltus.github.io/eltus-website/eltus-website.zip)
-## Second warning!: I will not include the .git folder inside the source code, so you may have to Initialize the folder once you have extract it.
+## Second warning!: I will not include the .git folder inside the source code, so you may have to initialize the folder once you have extract it.
+## Update: To initialize the eltus-website folder/ZIP file you need to run the, "git init" command in CMD, PowerShell, or the vsocde terminal, and if you run this command, the source code folder will be Initialized, and you can create an account for git by pudding your email, and username in order for you to upload the modified repository on to GitHub, but you need to sign-in to your GitHub account, or create a new account when you don't have a GitHub account, and here are the commands for you to initialize the source code folder, and creating an account for git:
+``
+git init
+``
+
+``
+git config --global user.name "[Your Username]"
+``
+Replace "[Your Username]" with your actual username.
+
+``
+git config --global user.email "[Your Email Address]"
+``
+
+Replace "[Your Email Address]" with your actual email address.
+## And there you go! Now you have created an account on git using those commands, and now, you can start uploading your modified version of the repository on to GitHub, and make sure to create an account on GitHub, or sign-in to your GitHub account, and make sure to use the "git add", "git commit", and the "git push" commands to add, commit, and upload your modified version of the repository on to GitHub, and here are all the commands for uploading your modified version of the repository on to GitHub:
+``
+git add index.html
+``
+
+``
+git commit -m "Your commit message"
+``
+
+Replace "Your commit message" with your actual commit message (e.g. INITIAL COMMIT).
+
+``
+git push origin branch_name
+``
+
+Replace "branch_name" with your actual branch name (e.g. Main, and Master).
+## And there you go! Now you have succesfully uploaded your modified version of the repository on to GitHub! And you can use vscode to upload your modified version of the repository by going into source control, and clicking the button that says: Commit. Then it will commit your modified version of the repository, then click the button that says: Publish branch. Then it will prompt you to connect vscode with GitHub, and it will also ask you to connect Git with GitHub in order for uploading your modified version of the repository on to GitHub. And there you go! Now you have your modified version of the repository on GitHub.

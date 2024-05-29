@@ -7,7 +7,7 @@ body {
 a {
     transition: color 2s ease;
     color: rgb(76, 76, 187);
-    text-decoration: 0;
+    text-decoration: none;
 }
 
 a:hover {

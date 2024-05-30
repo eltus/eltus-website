@@ -221,11 +221,13 @@ And there you go! Now you have my repository cloned on both Linux and macOS!
 
 ## Warning!: Please enable: "Ask where to save each file before downloading" option. So you won't have to manually move the ZIP file to the folder you want the ZIP file to be in.
 
-[Download the source code here](https://eltus.github.io/eltus-website/downloads/eltus-website_info.zip)
-
 ## Second warning!: I will not include the .git folder inside the source code, so you may have to initialize the folder once you have extract it.
 
 ## Third warning!: I have just put a password for the source code ZIP file, and I have created a new folder that contains both the source code ZIP file, and the password.txt file which contains the password for extracting the contents of the source code ZIP file, and I have changed the link to download the folder instead of the source code ZIP file. (A.K.A eltus-website.zip). (The folder will be a ZIP file with no password, so make sure to extract it, then copy, and paste the password from the password.txt file, then paste that password to the actual source code ZIP file in order to extract it).
+
+## 4th warning!: Make sure to use softwares like 7-zip, or WinRAR in order to extract the actual source code zip file because using built-in extract features like on Windows will not work on password protected ZIP file, like the source code ZIP file that is inside this ZIP file, so make sure you have 7-zip, or WinRAR installed in order to extract the actual source code ZIP file that is password protected, and inside this ZIP file.
+
+[Download the source code here](https://eltus.github.io/eltus-website/downloads/eltus-website_info.zip)
 
 ## Update: To initialize the eltus-website folder/ZIP file you need to run the, "git init" command in CMD, PowerShell, or the vsocde terminal, and if you run this command, the source code folder will be Initialized, and you can create an account for git by pudding your email, and username in order for you to upload the modified repository on to GitHub, but you need to sign-in to your GitHub account, or create a new account when you don't have a GitHub account, and here are the commands for you to initialize the source code folder, and creating an account for git:
 

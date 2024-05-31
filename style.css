@@ -32,8 +32,8 @@ a:hover {
 
 .README a {
     position: relative;
-    left: 550px;
-    top: -300px;
+    left: 538px;
+    top: -290px;
     font-size: 18px;
     transition: color 2s ease;
     color: black;
@@ -45,9 +45,9 @@ a:hover {
 }
 
 .about a {
-    margin-left: 150px;
+    margin-left: 172px;
     position: relative;
-    top: -320px;
+    top: -310px;
     transition: color 2s ease;
 }
 

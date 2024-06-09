@@ -57,3 +57,7 @@ a:hover {
 p {
     font-size: 25px;
 }
+summary {
+    cursor: pointer;
+    font-size: 30px; 
+}

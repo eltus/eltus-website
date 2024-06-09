@@ -217,39 +217,33 @@ And now, you have a copy of the repository on GitHub! As well as the branches yo
 
 And there you go! Now you have my repository cloned on both Linux and macOS!
 
-## Update: Do you want a simpler way to download the source code? Well, HERE'S THE SOURCE CODE INSIDE A ZIP FILE!!! MAKE SURE TO EXTRACT THE ZIP FILE IN ORDER TO USE THE SOURCE CODE!!!
+## I have just enabled releases on my website's GitHub repository! This means, you can download all versions of my website's source code, and all of the versions will be stored on a ZIP file, and make sure to extract the ZIP file in order to modify a new, or old version of my website, and upload it to GitHub by initializing the old, or new version of my website, and you need to use the: `git init` command. And this command initialize the new, or old version of my website, and if you want to upload the modified version of my website on to GitHub, then you will need a account on both Git, and GitHub, and to create an account on GitHub, just go to [github.com](https://github.com/) and click on the button that says: "sign up", or "sign in" if you already have a GitHub account, then fill in your password, email, and username, and you are done, now connect vscode with GitHub, so it will send the changes from vscode to GitHub, and to do that, you need to connect Git with GitHub in order for vscode to send the updates from vscode, and here are the steps on how to upload your modified version of my website on to GitHub:
 
-## Warning!: Please enable: "Ask where to save each file before downloading" option. So you won't have to manually move the ZIP file to the folder you want the ZIP file to be in.
+---
 
-## Second warning!: I will not include the .git folder inside the source code, so you may have to initialize the folder once you have extract it.
+1. Go to [github.com](https://github.com/)
+2. Then create an account by clicking the button that says: "sign up", or if you have a GitHub account, then click the button that says: "sign-in", or "login".
+3. Then connect vscode with GitHub, and connect Git with GitHub.
+4. Initialize the old, or new version of my website that you have downloaded by typing the command: `git init`, or initialize it by going into vscode, and clicking the source control icon, then click the button that says: "initialize this folder".
+5. Create an account for Git by typing these commands:
+   - `git config --global user.name "[Your Username]"`
+   - replace "[Your Username]" with your actual username.
+   - `git config --global user.email "[Your Email Address]"`
+   - replace "[Your Email Address]" with your actual email address.
+6. Open CMD, or the vscode terminal, then type in: `git add index.html`
+7. Open CMD, or the vscode terminal, and run the command: `git commit -m "Your commit message"`
+   - replace "Your commit message" with your actual commit message (eg, INITIAL COMMIT MESSAGE).
+8. Open CMD, or the vscode terminal, and type in: `git remote add origin Remote_URL`
+   - replace "Remote_URL" with the correct URL to your GitHub repository in order to connect your modified version of my website from your computer on to GitHub.
+9. Open CMD, or the vscode terminal, and type in: `git push origin branch_name`
+   - replace "branch_name" with your actual branch name.
+10. If you don't want to push your modified version of my website using the CLI, then click the source control icon, then click on the button that says: "Commit". Or click the checkmark icon which is this:
 
-## Third warning!: I have just put a password for the source code ZIP file, and I have created a new folder that contains both the source code ZIP file, and the password.txt file which contains the password for extracting the contents of the source code ZIP file, and I have changed the link to download the folder instead of the source code ZIP file. (A.K.A eltus-website.zip). (The folder will be a ZIP file with no password, so make sure to extract it, then copy, and paste the password from the password.txt file, then paste that password to the actual source code ZIP file in order to extract it).
+    ![checkmark](images/checkmark.png)
 
-## 4th warning!: Make sure to use softwares like 7-zip, or WinRAR in order to extract the actual source code zip file because using built-in extract features like on Windows will not work on password protected ZIP file, like the source code ZIP file that is inside this ZIP file, so make sure you have 7-zip, or WinRAR installed in order to extract the actual source code ZIP file that is password protected, and inside this ZIP file.
+11. Once you have commit your modified, or new files, and folders, then add your GitHub repository by opening GITLENS: REMOTES, then click the plus icon to add a remote, then choose your GitHub repository
+12. Once you have add your GitHub repository/remote repository, then click the button that says: "Sync changes", then it will push the changes you have made on to GitHub
+13. Use the .gitignore file to ignore the files, and folders you don't want to add, or commit
+14. Open your GitHub repository, and see if the changes you have made is now on GitHub.
 
-[Download the source code here](https://eltus.github.io/eltus-website/downloads/eltus-website_info.zip)
-
-## Update: To initialize the eltus-website folder/ZIP file you need to run the, "git init" command in CMD, PowerShell, or the vsocde terminal, and if you run this command, the source code folder will be Initialized, and you can create an account for git by pudding your email, and username in order for you to upload the modified repository on to GitHub, but you need to sign-in to your GitHub account, or create a new account when you don't have a GitHub account, and here are the commands for you to initialize the source code folder, and creating an account for git:
-
-`git init`
-
-`git config --global user.name "[Your Username]"`
-Replace "[Your Username]" with your actual username.
-
-`git config --global user.email "[Your Email Address]"`
-
-Replace "[Your Email Address]" with your actual email address.
-
-## And there you go! Now you have created an account on git using those commands, and now, you can start uploading your modified version of the repository on to GitHub, and make sure to create an account on GitHub, or sign-in to your GitHub account, and make sure to use the "git add", "git commit", and the "git push" commands to add, commit, and upload your modified version of the repository on to GitHub, and here are all the commands for uploading your modified version of the repository on to GitHub:
-
-`git add index.html`
-
-`git commit -m "Your commit message"`
-
-Replace "Your commit message" with your actual commit message (e.g. INITIAL COMMIT).
-
-`git push origin branch_name`
-
-Replace "branch_name" with your actual branch name (e.g. Main, and Master).
-
-## And there you go! Now you have succesfully uploaded your modified version of the repository on to GitHub! And you can use vscode to upload your modified version of the repository by going into source control, and clicking the button that says: Commit. Then it will commit your modified version of the repository, then click the button that says: Publish branch. Then it will prompt you to connect vscode with GitHub, and it will also ask you to connect Git with GitHub in order for uploading your modified version of the repository on to GitHub. And there you go! Now you have your modified version of the repository on GitHub.
+And there you go! Now, your modified version of my website is now on GitHub without cloning it on your computer. (But I will still recommend cloning the repository).

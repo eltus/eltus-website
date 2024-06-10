@@ -54,3 +54,53 @@ a:hover {
 .about a:hover {
     color: rgb(135, 225, 255);
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: medium;
+    }
+
+    button {
+        width: 100px;
+        height: 3em;
+        font-size: medium;
+    }
+
+    .README a {
+        left: 50%;
+        transform: translateX(-50%);
+        top: -200px;
+        font-size: 16px;
+    }
+
+    .about a {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        top: -220px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: small;
+    }
+
+    button {
+        width: 80px;
+        height: 2.5em;
+        font-size: small;
+    }
+
+    .README a {
+        left: 50%;
+        transform: translateX(-50%);
+        top: -150px;
+        font-size: 14px;
+    }
+
+    .about a {
+        margin-left: 50%;
+        transform: translateX(-50%);
+        top: -150px;
+    }
+}

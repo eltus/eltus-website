@@ -247,3 +247,6 @@ And there you go! Now you have my repository cloned on both Linux and macOS!
 14. Open your GitHub repository, and see if the changes you have made is now on GitHub.
 
 And there you go! Now, your modified version of my website is now on GitHub without cloning it on your computer. (But I will still recommend cloning the repository).
+
+## Update: Update: Here's the download to the source code ZIP file:
+[Eltus website 1.10.0](https://github.com/eltus/eltus-website/archive/refs/tags/v1.10.0.zip)

@@ -2,34 +2,46 @@
 
 ## how to install
 
-**1.** open your web browser and go to this link and copy the code and create files for the code: [Repository](https://github.com/eltus/eltus-website)
+1. open your web browser and go to this link and copy the code and create files for the code: [Repository](https://github.com/eltus/eltus-website)
 
-**2.** install vscode and install the recommended extensions:
+2. install vscode and install the recommended extensions:
 
 ## part 2 vscode extensions
 
-**1.** live server
-
-**2.** JavaScript (ES6) code snippets
-
-**3.** prettier - code formatter
+1. Live server
+2. JavaScript (ES6) code snippets
+3. Prettier - Code formatter
+4. Better Comments
+5. Peacock
+6. Material Icon Theme
+7. GitLens - Git supercharged (Optional)
+8. PowerShell
+9. Font Changer (Optional, but if you wan't to change vscode's fonts really fast, then this is recommended for you).
+10. One dark pro (optional, but if you want a nice dark theme, then this extension is recommended for you)
+11. Developer's theme (This is another optional extension, but if you want nice product icons in vscode, then this is recommended for you)
+12. Code Spell Checker (this a useful extension if your writing is trash, but this extension only works on words, and it is still in preview, but it is useful for detecting spell errors on your code).
+13. vscode-pets (recommended for adding pets in vscode)
+14. IntelliCode
+15. IntelliCode API Usage Examples (a dependency of IntelliCode)
+16. Live share (for collaborators only)
+17. GitHub Pull Requests (for collaborators, and checking for new issues only)
 
 ## part 3 how to install
 
-**1.** from the earlier steps
+1. from the earlier steps
 
-**2.** from the earlier steps
+2. from the earlier steps
 
-**3.** once you have these extension installed then click the button that says: Go Live.
+3. once you have these extension installed then click the button that says: Go Live.
 here's the video for the button
 
-**4.** https://github.com/eltus/eltus-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
+4. https://github.com/eltus/eltus-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 
-**5.** open your web browser and search localhost:5500
+5. open your web browser and search localhost:5500
 
-**6.** and open the eltus-website folder and open the index.html file
+6. and open the eltus-website folder and open the index.html file
 
-**7.** and there you go now you have eltus-website installed
+7. and there you go now you have eltus-website installed
 
 Note: any changes that I make to eltus-website will result you to copy and paste the code again so keep an eye for any changes I have made
 

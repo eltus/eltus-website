@@ -12,7 +12,7 @@ Thank you for your interest in contributing to the Eltus website! We welcome all
     ```
 3. **Navigate to the project directory**:
     ```sh
-    cd your-repo-name
+    cd eltus-website
     ```
 
 ## Working on Issues

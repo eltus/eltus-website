@@ -17,7 +17,7 @@
 7. GitLens - Git supercharged (Optional)
 8. PowerShell
 9. Font Changer (Optional, but if you wan't to change vscode's fonts really fast, then this is recommended for you).
-10. One dark pro (optional, but if you want a nice dark theme, then this extension is recommended for you)
+10. GitHub Theme (optional, but if you want a nice dark theme, or light theme, then this extension is recommended for you, but I recommend using the dark theme)
 11. Developer's theme (This is another optional extension, but if you want nice product icons in vscode, then this is recommended for you)
 12. Code Spell Checker (this a useful extension if your writing is trash, but this extension only works on words, and it is still in preview, but it is useful for detecting spell errors on your code).
 13. vscode-pets (recommended for adding pets in vscode)
@@ -33,7 +33,7 @@
 2. from the earlier steps
 
 3. once you have these extension installed then click the button that says: Go Live.
-here's the video for the button
+   here's the video for the button
 
 4. https://github.com/eltus/eltus-website/assets/156885804/aa63e190-70e8-4d51-9521-3f8bd270bcd8
 

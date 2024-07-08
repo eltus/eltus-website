@@ -262,4 +262,4 @@ And there you go! Now, your modified version of my website is now on GitHub with
 
 ## Update: Update: Here's the download to the source code ZIP file:
 
-[Eltus website 1.1.0](https://github.com/eltus/eltus-website/archive/refs/tags/v1.1.0.zip)
+[Eltus website 1.1.1](https://github.com/eltus/eltus-website/archive/refs/tags/v1.1.1.zip)
